@@ -8,3 +8,4 @@ was used to control the cursor on the LCD screen. The Y-axis potentiometer
 was used to increment or decrement through the ASCII character values. The
 push button in the joystick was used to clear the screen and reset the cursor
 position.
+Materials: Arduino Uno, Joystick module, 220 Ω resistor, 10 KΩ rotary pot, and wires.
